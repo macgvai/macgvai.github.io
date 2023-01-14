@@ -3,6 +3,9 @@
 .page__body {
     background-color: tomato;
 }
+.my-works {
+    margin-top: 150px;
+}
 .my-works__title {
     color: white;
     text-align: center;
