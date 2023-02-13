@@ -19,6 +19,9 @@
     margin-bottom: 20px;
     text-align: center;
 }
+.my-works__item:last-child {
+    margin-top: 150px;
+}
 .my-works__link {
     text-decoration: none;
     color: white;
