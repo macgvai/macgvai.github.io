@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.dcdac531.js",
+    "main.js": "/static/js/main.37c533a8.js",
     "static/media/certHtmlacademy.png": "/static/media/certHtmlacademy.e7e03c39beea18c1d2e0.png",
     "static/media/logoBg.png": "/static/media/logoBg.0e2b78847145ed96af6c.png",
     "static/media/github.svg": "/static/media/github.450dfab8d3636ddb4fb012dbab3d42ff.svg",
     "index.html": "/index.html",
     "static/media/telegram.svg": "/static/media/telegram.63d1e77503d63b09ff946c3433a85dcb.svg",
     "static/media/facebook.svg": "/static/media/facebook.4640272fa66e45593d9dbbcec08fccba.svg",
-    "main.dcdac531.js.map": "/static/js/main.dcdac531.js.map"
+    "main.37c533a8.js.map": "/static/js/main.37c533a8.js.map"
   },
   "entrypoints": [
-    "static/js/main.dcdac531.js"
+    "static/js/main.37c533a8.js"
   ]
 }
