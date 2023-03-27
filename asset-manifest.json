@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.37c533a8.js",
+    "main.js": "/static/js/main.0a0a1c54.js",
+    "static/media/keksobooking.png": "/static/media/keksobooking.ab68bb9994524914790b.png",
+    "static/media/sedona.png": "/static/media/sedona.ea8ecfbafd662c3f24c4.png",
     "static/media/certHtmlacademy.png": "/static/media/certHtmlacademy.e7e03c39beea18c1d2e0.png",
+    "static/media/uber.png": "/static/media/uber.4c333f8e25af87d670a9.png",
+    "static/media/catEnergy.png": "/static/media/catEnergy.0de760b574544a3a0c3b.png",
+    "static/media/tur.png": "/static/media/tur.36a84f8a1ae35ac4b864.png",
+    "static/media/tehnomart.png": "/static/media/tehnomart.eb983c1cadf31fe59d9a.png",
+    "static/media/drink2goPrev.png": "/static/media/drink2goPrev.972e81cbd4942c64fc42.png",
+    "static/media/farmProducts.png": "/static/media/farmProducts.9dc74d3b10d7661a3809.png",
     "static/media/logoBg.png": "/static/media/logoBg.0e2b78847145ed96af6c.png",
     "static/media/github.svg": "/static/media/github.450dfab8d3636ddb4fb012dbab3d42ff.svg",
     "index.html": "/index.html",
     "static/media/telegram.svg": "/static/media/telegram.63d1e77503d63b09ff946c3433a85dcb.svg",
     "static/media/facebook.svg": "/static/media/facebook.4640272fa66e45593d9dbbcec08fccba.svg",
-    "main.37c533a8.js.map": "/static/js/main.37c533a8.js.map"
+    "main.0a0a1c54.js.map": "/static/js/main.0a0a1c54.js.map"
   },
   "entrypoints": [
-    "static/js/main.37c533a8.js"
+    "static/js/main.0a0a1c54.js"
   ]
 }
