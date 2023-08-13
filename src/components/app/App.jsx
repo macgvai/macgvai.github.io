@@ -4,6 +4,7 @@ import Header from "../layout/header/header";
 import Footer from "../layout/footer/footer";
 import About from "../pages/about/about";
 import Portfolio from "../pages/portfolio/portfolio";
+import Experience from "../pages/experience/experience";
 import { GlobalStyle } from "./styles";
 
 function App({ portfolioData }) {
@@ -18,6 +19,7 @@ function App({ portfolioData }) {
             path="/portfolio"
             element={<Portfolio portfolioData={portfolioData} />}
           ></Route>
+          <Route path="/experience" element={<Experience />}></Route>
         </Routes>
         <Footer />
       </Router>

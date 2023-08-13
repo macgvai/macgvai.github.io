@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import MenuItemBg from "../../../assets/MenuItemBg.png";
 import MenuItemAbout from "../../../assets/MenuItemAbout.png";
 import MenuItemPortfolio from "../../../assets/MenuItemPortfolio.png";
+import MenuItemExperience from "../../../assets/MenuItemExperience.png";
 import { Ul, Li } from "../../styled/index";
 import { NavAnimation } from "../animations/animations";
 
@@ -10,14 +11,18 @@ export const MenuItemList = styled(Ul)`
   display: flex;
 `;
 
-export const MenuItemItem = styled(Li)``;
+export const MenuItemItem = styled(Li)`
+  margin-right: 10px;
+  &:last-child {
+    margin-right: 0;
+`;
 
 export const MenuItemLink = styled(Link)`
   display: flex;
   justify-content: center;
   padding-top: 83px;
   position: relative;
-  width: 108px;
+  width: 115px;
   background: url(${MenuItemAbout}) center 10px no-repeat;
   &:before {
     background: url(${MenuItemBg});
@@ -36,6 +41,10 @@ export const MenuItemLink = styled(Link)`
 
 export const MenuItemLinkPortfolio = styled(MenuItemLink)`
   background: url(${MenuItemPortfolio}) center 10px no-repeat;
+`;
+
+export const MenuItemLinkExperience = styled(MenuItemLink)`
+  background: url(${MenuItemExperience}) center 10px no-repeat;
 `;
 
 export const MenuItemText = styled.span`

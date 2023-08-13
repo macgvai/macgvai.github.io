@@ -1,5 +1,5 @@
 import React from "react";
-import { PortfolioItemLi, PortfolioLink } from "./styles";
+import { PortfolioItemLi, PortfolioLink, Title } from "./styles";
 
 const PortfolioItem = ({ link, title, id, image = "drink2goPrev.png" }) => {
   console.log({ image });
@@ -8,7 +8,7 @@ const PortfolioItem = ({ link, title, id, image = "drink2goPrev.png" }) => {
   return (
     <PortfolioItemLi key={id}>
       <PortfolioLink href={link} target="_blank" rel="noreferrer">
-        {title}
+        <Title>{title}</Title>
         <img src={require(`../../../assets/${image}`)} alt={title} />
       </PortfolioLink>
     </PortfolioItemLi>

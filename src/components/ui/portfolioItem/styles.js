@@ -10,3 +10,7 @@ export const PortfolioItemLi = styled.li`
 export const PortfolioLink = styled.a`
   color: ${(props) => props.theme.fontColorBlack};
 `;
+
+export const Title = styled.span`
+  display: block;
+`;
