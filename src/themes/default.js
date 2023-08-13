@@ -15,4 +15,7 @@ export const defaultTheme = {
   pageWidth: "1280px",
   headerHeight: "80px",
   footerHeight: "80px",
+  isMobile: "320px",
+  isTablet: "768px",
+  isDesktop: "1440px",
 };

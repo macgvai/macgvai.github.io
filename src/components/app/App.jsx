@@ -6,7 +6,7 @@ import About from "../pages/about/about";
 import Portfolio from "../pages/portfolio/portfolio";
 import { GlobalStyle } from "./styles";
 
-function App() {
+function App({ portfolioData }) {
   return (
     <>
       <GlobalStyle />
@@ -14,7 +14,10 @@ function App() {
         <Header />
         <Routes>
           <Route path="/" element={<About />}></Route>
-          <Route path="/portfolio" element={<Portfolio />}></Route>
+          <Route
+            path="/portfolio"
+            element={<Portfolio portfolioData={portfolioData} />}
+          ></Route>
         </Routes>
         <Footer />
       </Router>

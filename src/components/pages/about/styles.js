@@ -2,14 +2,21 @@ import styled from "styled-components";
 import { Section } from "./../../styled/index";
 
 export const AboutStyled = styled(Section)`
-  padding-bottom: 327px;
+  padding-top: 20px;
+  padding-bottom: 250px;
   justify-content: space-between;
+  display: block;
+  @media (min-width: ${(props) => props.theme.isTablet}) {
+    display: flex;
+  }
 `;
 
 export const AboutText = styled.div`
   font-size: 22px;
   font-weight: 400;
-  width: 50%;
+  @media (min-width: ${(props) => props.theme.isTablet}) {
+    width: 50%;
+  }
 `;
 
 export const AboutTextTitle = styled.h1`
@@ -24,9 +31,12 @@ export const AboutTextP = styled.p`
 `;
 
 export const AboutImgWrap = styled.div`
-  width: 40%;
+  @media (min-width: ${(props) => props.theme.isTablet}) {
+    width: 40%;
+  }
 `;
 export const AboutImg = styled.img`
-  width: 400px;
-  text-align: right;
+  @media (min-width: ${(props) => props.theme.isTablet}) {
+    width: 400px;
+  }
 `;

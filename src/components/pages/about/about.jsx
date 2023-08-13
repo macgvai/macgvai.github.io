@@ -15,8 +15,27 @@ function About() {
       <AboutText>
         <AboutTextTitle>Привет! Меня зовут Виктор.</AboutTextTitle>
         <AboutTextP>
-          Я начинающий Frontend-разработчик, Frontend начал изучать в 2020 году
-          по видеокурсам и тренажерам.
+          Я Frontend-разработчик, занимаюсь разработкой сайтов с 2020 года
+        </AboutTextP>
+        <AboutTextP>Профессиональные навыки:</AboutTextP>
+        <AboutTextP>
+          -- HTML 5, CSS 3 (Pixel-perfect, Адаптивная верстка (Flexbox, Grid),
+          использование методологии БЭМ, препроцессоры - Sass / Scss / Less)
+        </AboutTextP>
+        <AboutTextP>
+          -- JavaScript
+          <AboutTextP>
+            -- React JS (JSX, styled-components , react-router, react hooks)
+          </AboutTextP>
+        </AboutTextP>
+        <AboutTextP>-- TypeScript</AboutTextP>
+        <AboutTextP>
+          -- Gulp, Webpack, NPM/Yarn, на уровне сборки проекта и понимания
+          зависимостей
+        </AboutTextP>
+        <AboutTextP>-- Git</AboutTextP>
+        <AboutTextP>
+          -- Графические редакторы - Figma, Photoshop, Avocode
         </AboutTextP>
         <AboutTextP>
           С января 2022 по февраль 2023 проходил курс «Профессия
@@ -32,9 +51,12 @@ function About() {
         </AboutTextP>
         <AboutTextP>
           В данный момент изучаю Typescript и продолжаю совершенствовать навыки
-          в верстке, JavaScript и React. Имею два высших образования. В
-          последние годы работал в другой сфере. В Frontend-разработке есть опыт
-          только с личными и учебными проектами.
+          в верстке, JavaScript и React.
+        </AboutTextP>
+        <AboutTextP>
+          Имею два высших образования. Быстро обучаюсь, открыт новым знаниям.
+          Рад быть полезным и мотивирован на развитие в качестве
+          Frontend-разработчика.
         </AboutTextP>
       </AboutText>
       <AboutImgWrap>
