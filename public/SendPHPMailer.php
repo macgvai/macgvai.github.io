@@ -38,14 +38,14 @@ if (!error_get_last()) {
     
     // Настройки вашей почты
     $mail->Host       = 'smtp.yandex.ru'; // SMTP сервера вашей почты
-    $mail->Username   = 'stupitsyn@yandex.ru';   // Логин на почте  
+    $mail->Username   = '';   // Логин на почте  
     $mail->Password   = 'vimpkmentcngvkpc';   // Пароль на почте
     $mail->SMTPSecure = 'ssl';
     $mail->Port       = 465;
-    $mail->setFrom('stupitsyn@yandex.ru', 'САЙТ ПОРТФОЛИО'); // Адрес самой почты и имя отправителя
+    $mail->setFrom('', 'САЙТ ПОРТФОЛИО'); // Адрес самой почты и имя отправителя
     
     // Получатель письма
-    $mail->addAddress('st.viktorr@gmail.com');  
+    $mail->addAddress('');  
     
     // Прикрипление файлов к письму
     if (!empty($file['name'][0])) {
