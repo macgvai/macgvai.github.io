@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.94b286a0.js",
+    "main.js": "/static/js/main.f2a792e5.js",
     "static/media/itunsExt.png": "/static/media/itunsExt.e5623aef1493e80f4b76.png",
     "static/media/keksobooking.png": "/static/media/keksobooking.ab68bb9994524914790b.png",
     "static/media/sedona.png": "/static/media/sedona.ea8ecfbafd662c3f24c4.png",
@@ -16,9 +16,9 @@
     "index.html": "/index.html",
     "static/media/telegram.svg": "/static/media/telegram.63d1e77503d63b09ff946c3433a85dcb.svg",
     "static/media/facebook.svg": "/static/media/facebook.4640272fa66e45593d9dbbcec08fccba.svg",
-    "main.94b286a0.js.map": "/static/js/main.94b286a0.js.map"
+    "main.f2a792e5.js.map": "/static/js/main.f2a792e5.js.map"
   },
   "entrypoints": [
-    "static/js/main.94b286a0.js"
+    "static/js/main.f2a792e5.js"
   ]
 }
