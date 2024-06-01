@@ -3,14 +3,14 @@ const portfolioData = [
     id: 0,
     link: "https://macgvai.github.io/modern-tunes-ExtJS/build/production/ModernTunes/",
     title: "Modern Tunes Sencha ExtJs",
-    image: "grid.png",
+    image: "itunsExt.png",
     about: "",
   },
   {
     id: 1,
     link: "https://macgvai.github.io/ipgTest_2.0/",
     title: "Grid ExtJs",
-    image: "itunsExt.png",
+    image: "grid.png",
     about: "",
   },
   {
