@@ -21,11 +21,11 @@ function MainNav() {
           <MenuItemText>Портфолио</MenuItemText>
         </MenuItemLinkPortfolio>
       </MenuItemItem>
-      <MenuItemItem>
+      {/* <MenuItemItem>
         <MenuItemLinkExperience to="/experience">
           <MenuItemText>Опыт работы</MenuItemText>
         </MenuItemLinkExperience>
-      </MenuItemItem>
+      </MenuItemItem> */}
     </MenuItemList>
   );
 }

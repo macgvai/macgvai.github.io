@@ -18,7 +18,7 @@ function App({ portfolioData }) {
               path="/portfolio"
               element={<Portfolio portfolioData={portfolioData} />}
             ></Route>
-            <Route path="/experience" element={<Experience />}></Route>
+            {/* <Route path="/experience" element={<Experience />}></Route> */}
           </Route>
         </Routes>
       </Router>
