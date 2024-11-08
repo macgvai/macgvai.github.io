@@ -51,7 +51,7 @@ function About() {
         </AboutTextP>
         <AboutTextP>
           В данный момент изучаю Typescript и продолжаю совершенствовать навыки
-          в верстке, JavaScript и React.
+          в верстке, JavaScript и Angular и React.
         </AboutTextP>
         <AboutTextP>
           Имею два высших образования. Быстро обучаюсь, открыт новым знаниям.
