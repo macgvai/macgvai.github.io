@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.d0cf52a5.js",
+    "main.js": "/static/js/main.50d0f2e0.js",
     "static/media/itunsExt.png": "/static/media/itunsExt.e5623aef1493e80f4b76.png",
     "static/media/keksobooking.png": "/static/media/keksobooking.ab68bb9994524914790b.png",
     "static/media/sedona.png": "/static/media/sedona.ea8ecfbafd662c3f24c4.png",
@@ -10,6 +10,7 @@
     "static/media/tur.png": "/static/media/tur.36a84f8a1ae35ac4b864.png",
     "static/media/tehnomart.png": "/static/media/tehnomart.eb983c1cadf31fe59d9a.png",
     "static/media/drink2goPrev.png": "/static/media/drink2goPrev.972e81cbd4942c64fc42.png",
+    "static/media/angularSert.jpg": "/static/media/angularSert.0a9c49a2aedf92e4e192.jpg",
     "static/media/farmProducts.png": "/static/media/farmProducts.9dc74d3b10d7661a3809.png",
     "static/media/grid.png": "/static/media/grid.23722eae808295caef62.png",
     "static/media/logoBg.png": "/static/media/logoBg.0e2b78847145ed96af6c.png",
@@ -17,9 +18,9 @@
     "index.html": "/index.html",
     "static/media/telegram.svg": "/static/media/telegram.63d1e77503d63b09ff946c3433a85dcb.svg",
     "static/media/facebook.svg": "/static/media/facebook.4640272fa66e45593d9dbbcec08fccba.svg",
-    "main.d0cf52a5.js.map": "/static/js/main.d0cf52a5.js.map"
+    "main.50d0f2e0.js.map": "/static/js/main.50d0f2e0.js.map"
   },
   "entrypoints": [
-    "static/js/main.d0cf52a5.js"
+    "static/js/main.50d0f2e0.js"
   ]
 }
