@@ -8,6 +8,7 @@ import {
   AboutTextP,
 } from "./styles";
 import CertImg from "../../../assets/certHtmlacademy.png";
+import AngularCert from "../../../assets/angularSert.jpg";
 
 function About() {
   return (
@@ -15,7 +16,7 @@ function About() {
       <AboutText>
         <AboutTextTitle>Привет! Меня зовут Виктор.</AboutTextTitle>
         <AboutTextP>
-          Я Frontend-разработчик, занимаюсь разработкой сайтов с 2020 года
+          Я Frontend-разработчик, занимаюсь веб-разработкой с 2020 года
         </AboutTextP>
         <AboutTextP>Профессиональные навыки:</AboutTextP>
         <AboutTextP>
@@ -25,8 +26,14 @@ function About() {
         <AboutTextP>
           -- JavaScript
           <AboutTextP>
-            -- React JS (JSX, styled-components , react-router, react hooks)
+            -- Sencha ExtJs
           </AboutTextP>
+          <AboutTextP>
+            -- Angular
+          </AboutTextP>
+          <AboutTextP>
+          -- React JS (JSX, styled-components , react-router, react hooks)
+        </AboutTextP>
         </AboutTextP>
         <AboutTextP>-- TypeScript</AboutTextP>
         <AboutTextP>
@@ -60,6 +67,7 @@ function About() {
         </AboutTextP>
       </AboutText>
       <AboutImgWrap>
+        <AboutImg src={AngularCert} alt="сертификат Angular" />
         <AboutImg src={CertImg} alt="сертификат Htmlacademy" />
       </AboutImgWrap>
     </AboutStyled>
