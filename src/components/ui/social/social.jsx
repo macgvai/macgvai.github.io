@@ -15,7 +15,7 @@ function Social() {
         rel="noreferrer"
       ></SocialLinkGIT>
       <SocialLink
-        href="http://t.me/zzMacGvaIzz"
+        href="http://t.me/StViktorr"
         target="_blank"
         rel="noreferrer"
       ></SocialLink>
