@@ -9,6 +9,8 @@ import {
 } from "./styles";
 import CertImg from "../../../assets/certHtmlacademy.png";
 import AngularCert from "../../../assets/angularSert.jpg";
+import NestCert from "../../../assets/nestjs.jpg";
+import SqlCert from "../../../assets/sql.png";
 
 function About() {
   return (
@@ -67,8 +69,10 @@ function About() {
         </AboutTextP>
       </AboutText>
       <AboutImgWrap>
+        <AboutImg src={NestCert} alt="сертификат NestJs" />
         <AboutImg src={AngularCert} alt="сертификат Angular" />
         <AboutImg src={CertImg} alt="сертификат Htmlacademy" />
+        <AboutImg src={SqlCert} alt="сертификат sql" />
       </AboutImgWrap>
     </AboutStyled>
   );
